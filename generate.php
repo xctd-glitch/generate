@@ -106,23 +106,19 @@ if (empty($_GET['sub_id'])) {
     exit;
 }
 
-// Sanitize the incoming sub_id and attempt to fetch credentials using a prepared statement
+// Sanitize the incoming sub_id and attempt to fetch credentials
 $rawSubId = $_GET['sub_id'];
-$stmt = $link->prepare('SELECT sub_id, password FROM generate WHERE sub_id = ? LIMIT 1');
-$stmt->bind_param('s', $rawSubId);
-$stmt->execute();
-$result = $stmt->get_result();
-$row = $result->fetch_assoc();
-$stmt->close();
-
-if (!$row) {
+$safeSubId = mysqli_real_escape_string($link, $rawSubId);
+$query = mysqli_query($link, "SELECT * FROM generate WHERE sub_id = '$safeSubId'");
+if (!$query || mysqli_num_rows($query) === 0) {
     // Unknown sub_id; fall back to landing page
     renderLandingPage();
     exit;
 }
 
-$accountSubId = htmlspecialchars_decode($row['sub_id'] ?? '');
-$accountPassword = htmlspecialchars_decode($row['password'] ?? '');
+$row = mysqli_fetch_assoc($query);
+$accountSubId = htmlspecialchars_decode($row['sub_id']);
+$accountPassword = htmlspecialchars_decode($row['password']);
 
 // Build the credential mapping. In the original code the variable was re-assigned and
 // sanitised multiple times; this simplified approach keeps the mapping clear.
@@ -214,13 +210,6 @@ if (!$authenticated) {
 // removed for clarity.  Additional forms and markup should remain outside of
 // PHP tags so they render correctly.
 ?>
-
-    <div class="container" style="max-width: 760px; margin-top: 40px;">
-        <div class="alert alert-info text-center" id="dashboard-notice">
-            <strong>Login berhasil.</strong> Konten dashboard belum dipindahkan sepenuhnya.
-            Silakan lengkapi markup yang dibutuhkan atau tambahkan modul baru sesuai kebutuhan.
-        </div>
-    </div>
 
     <!-- Load the extracted application script.  This file contains the
          behaviour that was previously embedded directly into the PHP file. -->
