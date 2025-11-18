@@ -1,0 +1,237 @@
+[17-Oct-2025 12:06:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 12:06:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 12:07:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 12:09:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 12:10:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 13:44:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 14:33:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 14:33:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 14:40:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 15:05:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 15:05:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 15:19:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 16:15:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 16:45:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:05:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:23:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:23:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:24:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:27:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:34:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:36:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:36:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:48:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 17:56:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:03:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:09:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:14:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:16:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:16:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:23:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[17-Oct-2025 18:41:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.generate' doesn't exist in /home/gassstea/public_html/admin.panel/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.panel/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.panel/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.panel/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.panel/response.php on line 90
+[20-Oct-2025 05:05:32 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[30-Oct-2025 12:33:26 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[30-Oct-2025 12:33:30 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[30-Oct-2025 12:33:31 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[04-Nov-2025 15:48:05 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[06-Nov-2025 22:50:25 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[07-Nov-2025 13:44:40 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[11-Nov-2025 01:04:53 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[11-Nov-2025 01:04:54 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[11-Nov-2025 01:04:58 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[11-Nov-2025 01:05:03 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[12-Nov-2025 12:41:20 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101
+[13-Nov-2025 07:41:31 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.panel/response.php on line 101

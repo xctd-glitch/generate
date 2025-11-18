@@ -1,0 +1,44 @@
+[17-Oct-2025 17:36:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.offering' doesn't exist in /home/gassstea/public_html/admin.campign/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.campign/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.campign/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.campign/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.campign/response.php on line 90
+[17-Oct-2025 17:36:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.offering' doesn't exist in /home/gassstea/public_html/admin.campign/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.campign/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.campign/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.campign/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.campign/response.php on line 90
+[17-Oct-2025 17:36:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.offering' doesn't exist in /home/gassstea/public_html/admin.campign/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.campign/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.campign/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.campign/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.campign/response.php on line 90
+[17-Oct-2025 17:36:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.offering' doesn't exist in /home/gassstea/public_html/admin.campign/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.campign/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.campign/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.campign/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.campign/response.php on line 90
+[17-Oct-2025 18:09:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.offering' doesn't exist in /home/gassstea/public_html/admin.campign/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.campign/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.campign/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.campign/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.campign/response.php on line 90
+[17-Oct-2025 18:09:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gassstea_base.offering' doesn't exist in /home/gassstea/public_html/admin.campign/response.php:90
+Stack trace:
+#0 /home/gassstea/public_html/admin.campign/response.php(90): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 /home/gassstea/public_html/admin.campign/response.php(38): generate->getRecords(Array)
+#2 /home/gassstea/public_html/admin.campign/response.php(25): generate->getgenerates(Array)
+#3 {main}
+  thrown in /home/gassstea/public_html/admin.campign/response.php on line 90
+[18-Oct-2025 10:27:03 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.campign/response.php on line 101
+[18-Oct-2025 10:27:04 UTC] PHP Warning:  Undefined variable $data in /home/gassstea/public_html/admin.campign/response.php on line 101
